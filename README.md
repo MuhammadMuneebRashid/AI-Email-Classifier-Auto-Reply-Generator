@@ -136,6 +136,8 @@ This project is licensed under the MIT License.
 
 **Muneeb**
 
+<img width="1920" height="486" alt="ai email classifier and auto reply using n8n and gemini" src="https://github.com/user-attachments/assets/26cdee2d-82f2-4f0b-8491-53cbea9cf18b" />
+
 AI Automation Developer specializing in intelligent workflow automation using **n8n**, **Google Gemini**, and modern APIs to build scalable business solutions.
 
 ---
